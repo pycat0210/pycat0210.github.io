@@ -26,7 +26,7 @@ import { RouterView } from 'vue-router'
       </Box>
     <footer>
       <Card>
-        友情链接：
+        友情链接：<Link href="https://hubenchang0515.github.io/">Plan C 的主页</Link>
       </Card>
     </footer>
   </Box>
