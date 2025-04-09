@@ -18,7 +18,7 @@ import { RouterView } from 'vue-router'
           <Link to="/images">壁纸</Link>
         </Box>
         <span style="flex-grow: 1;"></span>
-        <Link href="https://github.com/phos2023/phos2023.github.io" target="_blank"><GitHubIcon/></Link>
+        <Link href="https://github.com/pycat0210/pycat0210.github.io" target="_blank"><GitHubIcon/></Link>
       </Card>
     </header>
       <Box :style="{flexGrow:1, margin:'16px'}">

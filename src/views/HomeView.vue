@@ -10,12 +10,12 @@ import Link from '@/components/Link.vue';
       <Box :style="{flexGrow:1}"/>
       <Box :style="{display:'flex'}">
         <Box class="avatar" :style="{display:'flex',  flexDirection:'column', alignItems:'center', gap:'8px'}"> 
-          <img src="/favicon.jpg" :style="{width:'128px', height:'128px', borderRadius:'32px'}">
-          <Box :style="{color:'white'}"> 萌萌磷叶石 </Box>
+          <img src="/favicon.png" :style="{width:'128px', height:'128px', borderRadius:'32px'}">
+          <Box :style="{color:'white'}"> 猫派 </Box>
           <Box>
-            <Link href="https://github.com/phos2023" target="_blank">GitHub</Link>
+            <Link href="https://github.com/pycat0210" target="_blank">GitHub</Link>
             /
-            <Link href="https://phos2023.github.io/blog/" target="_blank">Blog</Link>
+            <Link href="https://pycat0210.github.io/blog/" target="_blank">Blog</Link>
           </Box>
         </Box>
       </Box>
